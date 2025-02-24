@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Harbin</title>
+    <title>서양철학사</title>
     <link rel="stylesheet" type="text/css" href="styles.css">
 </head>
 <body>
