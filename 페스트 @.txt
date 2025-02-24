@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Harbin</title>
+    <title>페스트</title>
     <link rel="stylesheet" type="text/css" href="styles.css">
 </head>
 <body>
@@ -20,7 +20,7 @@
     <li><h3>감상평에 대한 AI그림</h3></li>
     <h3>~~~나의 감상평~~~~<br> 
     </h3>
-    <img src="페스트.webp" alt=하얼빈">
+    <img src="페스트.webp" alt=페스트">
     <li><h3>감상평에 대한 AI평가</h3></li>
     <h3>~~~~AI평가~~~~~<br>
         &#10024; ~~~~AI평가~~~~~<br>
