@@ -12,9 +12,9 @@
 <p></p>
 <!-- 하이퍼링크를 버튼처럼 스타일링 -->
 <p>
-    <a href="songsword.html" class="button">죄와 벌</a>
-    <a href="rosesharon.html" class="button">페스트</a>
-    <a href="harbin.html" class="button">서양철학사</a>
+    <a href="죄와 벌 @" class="button">죄와 벌</a>
+    <a href="페스트 @" class="button">페스트</a>
+    <a href="서양철학사 @ class="button">서양철학사</a>
 </p>
 </body>
 </html>
