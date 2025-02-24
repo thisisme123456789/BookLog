@@ -7,7 +7,7 @@
 <body>
 
 <h1>
-    하얼빈
+    서양철학사
     <a href="index.html" class="button">목차</a>
 </h1>
 
@@ -20,7 +20,7 @@
     <li><h3>감상평에 대한 AI그림</h3></li>
     <h3>~~~나의 감상평~~~~<br> 
     </h3>
-    <img src="서양철학사.webp" alt=하얼빈">
+    <img src="서양철학사.webp" alt=서양철학사">
     <li><h3>감상평에 대한 AI평가</h3></li>
     <h3>~~~~AI평가~~~~~<br>
         &#10024; ~~~~AI평가~~~~~<br>
